@@ -1,7 +1,7 @@
 <!-- GitHub Profile README -->
 
 <h1 align="center">Hi 👋, I'm Adham Nemr</h1>
-<h3 align="center">Junior Backend Developer from Egypt 🇪🇬</h3>
+<h3 align="center">Junior Backend Developer</h3>
 
 <p align="center">
   Passionate about backend development and always improving through learning and real projects.
@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I studied Computer Science at **Tanta University**
+- 🎓 I studied Computer Science 
 - 💻 I’m focusing on building real backend systems with:
   - Node.js
   - Express.js
@@ -43,7 +43,7 @@ Here are some of my real hands-on projects:
 - 🧾 **POS System for Restaurants**
   - Built a full backend system to manage orders, payments, daily/monthly reports, and more
   - Used Node.js, Express, MySQL
-- 🏠 **Smart Home System (Graduation Project)**
+- 🏠 **Smart Home System With IOT**
   - Built using ESP32 and multiple sensors, connected with a dashboard
   - Used Node.js for backend API & real-time monitoring
 - 👥 **Client Management System**
@@ -67,8 +67,8 @@ Here are some of my real hands-on projects:
 
 ### 📫 Contact Me
 
-- 📧 Email: **your.email@example.com**
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINK)
+- 📧 Email: **adhamnemr77@gmail.com**
+- 💼 [LinkedIn](www.linkedin.com/in/adhamnemr)
 - 🌐 Portfolio (coming soon)
 
 ---
