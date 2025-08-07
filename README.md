@@ -15,6 +15,6 @@ Node.js · Express.js · MongoDB · MySQL · REST · Git · Postman · MVC Archi
 TypeScript · Authentication (JWT, OAuth) · Deployment
 
 ## 📫 Connect with me  
-[LinkedIn](https://www.linkedin.com/in/…) · your.email@example.com
+[LinkedIn](https://www.linkedin.com/in/…) · adhamnemr77@gmail.com
 
 <!-- GitHub Stats / Top Langs cards here -->
