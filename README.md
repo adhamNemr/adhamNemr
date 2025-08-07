@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there 👋 I'm Adham Nemr
+**Backend Developer | Node.js | Express | REST APIs**
 
-<!--
-**adhamNemr/adhamNemr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔧 Worked as a Backend Dev on Freelancer.com (Jul 2024 – Jun 2025)
+- 🎓 Bachelor's in Computer Science, Tanta University
 
-Here are some ideas to get you started:
+## 🛠 Technologies
+Node.js · Express.js · MongoDB · MySQL · REST · Git · Postman · MVC Architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- **Project A**: Node‑based API for …  
+- **Project B**: Full-stack app using Express + MongoDB …
+
+## 📚 Currently learning
+TypeScript · Authentication (JWT, OAuth) · Deployment
+
+## 📫 Connect with me  
+[LinkedIn](https://www.linkedin.com/in/…) · your.email@example.com
+
+<!-- GitHub Stats / Top Langs cards here -->
