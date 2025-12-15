@@ -1,4 +1,4 @@
-# Hi there, I'm Adham! 👋🚀
+# Hi there, I'm Adham! 
 
 ### Backend Engineer | .NET Core Specialist | SaaS MVP Builder
 
