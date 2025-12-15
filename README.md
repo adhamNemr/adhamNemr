@@ -1,48 +1,51 @@
 # Hi there, I'm Adham! 
 
-### Backend Engineer | .NET Core Specialist | SaaS MVP Builder
+### Agile Backend Engineer | .NET & Node.js | IoT Enthusiast
 
-I am a passionate software engineer focused on building **scalable backends** and **full-stack MVPs** for startups and businesses. My expertise lies in architecting clean, secure, and high-performance systems using **.NET Core** and modern web technologies.
+I am a versatile software engineer who bridges the gap between hardware and software. I don't just stick to one tool; I use the right technology for the job.
+*   **Building robust enterprise systems?** I use **.NET Core**.
+*   **Creating real-time scalable apps?** I use **Node.js**.
+*   **Connecting the physical world?** I build **IoT Solutions**.
+
+My focus is always on **Clean Architecture**, **Scalability**, and delivering business value.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-**Backend & Database**
+**Backend Ecosystems**
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+
+**Data & Infrastructure**
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-**Architecture & DevOps**
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-blue?style=for-the-badge)
-![Microservices](https://img.shields.io/badge/Microservices-orange?style=for-the-badge)
 
-**IoT & Hardware**
+**IoT & Specialized**
 ![IoT](https://img.shields.io/badge/IoT-Solutions-success?style=for-the-badge)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-Chip-red?style=for-the-badge)
+![Embedded C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-Hardware-red?style=for-the-badge)
 
 ---
 
 ### 🌟 Featured Projects
 
-#### 💰 [SaaS Expense Tracker MVP](https://github.com/adhamNemr/ExpenseTracker)
-A complete full-stack SaaS solution with **Clean Architecture**.
-- **Backend**: .NET 9 API, Entity Framework, Repository Pattern.
-- **Frontend**: React + Vite, TailwindCSS.
-- **Features**: JWT Auth, RBAC, Interactive Dashboard, Dockerized.
+#### 💰 [SaaS Expense Tracker MVP](https://github.com/adhamNemr/ExpenseTracker) (.NET Core)
+A structured, enterprise-grade SaaS backend demonstrating strict **Clean Architecture**.
+- **Tech**: .NET 9 API, SQL Server, Docker, Redis.
+- **Focus**: Scalability, Security, and Pattern implementation (Repository, DTOs).
 
-#### 🍽️ [Restaurant Management System](https://github.com/adhamNemr/Restaurant-React-Vite)
-A modern POS and management system for restaurants.
-- Real-time order tracking.
-- Interactive menu management.
+#### � [IoT Smart Home System](https://github.com/adhamNemr/IoT-Based-Smart-Home-with-Real-Time-Communication) (IoT & Real-time)
+A complete ecosystem connecting hardware sensors to a web dashboard.
+- **Tech**: ESP32, C++, Node.js/Firebase for real-time signaling.
+- **Focus**: Hardware-Software integration and low-latency communication.
 
-#### 🏠 [IoT Smart Home System](https://github.com/adhamNemr/IoT-Based-Smart-Home-with-Real-Time-Communication)
-A real-time IoT solution controlling home appliances remotely.
-- **stack**: ESP32, Firebase/MQTT, Mobile App.
+#### �️ [Restaurant Management System](https://github.com/adhamNemr/Restaurant-React-Vite) (Node.js & React)
+A modern POS solution designed for speed and user experience.
+- **Tech**: Node.js Backend, React Frontend.
+- **Focus**: Real-time order updates and intuitive UI/UX.
 
 ---
 
@@ -55,13 +58,8 @@ A real-time IoT solution controlling home appliances remotely.
 
 ---
 
-### 📫 Let's Connect
+### 📫 Let's Collaboratre
 
-I am currently **Open to Work** for freelance projects or full-time roles. If you need a robust backend or an MVP launched quickly, let's talk!
+I specialize in helping clients ship their **MVPs** effectively. Whether you need the structure of .NET or the speed of Node.js, I can build it.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adhamnemr/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-
----
-
-_Looking for a developer who understands both code and business value? Check out my repositories!_
