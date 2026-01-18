@@ -2,7 +2,7 @@
   <img src="assets/banner.png" width="100%" alt="Adham Nemr Banner" />
   
   <h1>🌌 Adham Nemr</h1>
-  <p><strong>Backend & IoT Architect | Full-Stack Engineer | Problem Solver</strong></p>
+  <p><strong>Backend & IoT Architect | Full-Stack Engineer | System Architect</strong></p>
 
   <p>
     <a href="https://linkedin.com/in/adhamnemr">
@@ -21,44 +21,56 @@
 
 ### 🚀 About Me
 
-I am a highly driven **Software Engineer** specializing in building robust **Backend Architectures** and **IoT Ecosystems**. My passion lies in engineering high-performance systems that bridge the gap between physical hardware and digital intelligence. Currently, I am focused on developing scalable POS systems and smart automation environments.
+I am a **Software Architect** focused on high-performance systems and bridge-technologies. My expertise spans from **C# .NET Clean Architecture** to **Arduino-based IoT firmware**, with a strong foundation in modern full-stack web development. I don't just build apps; I engineer solutions that solve complex business logic and hardware-level problems.
 
-- 🏗️ **Current Project:** Scaling the **T1T System**—a high-end POS solution for businesses.
-- 📡 **Expertise:** Real-time data synchronization, IoT firmware, and secure backend APIs.
-- ⚡ **Philosophy:** "Code is poetry, but performance is the rhythm."
+- 🏗️ **Core Craft:** Engineering scalable **.NET Core** backends and real-time **Node.js** ecosystems.
+- 📡 **Hardware Integration:** Expertise in **Arduino** ecosystems and **EscPos Thermal Printing** systems.
+- ⚡ **Current Focus:** Optimizing the **T1T Pro System**—a high-end POS solution for retail & hospitality.
 
 ---
 
-### 🛠️ The Technical Arsenal
+### 🛠️ Technical Portfolio
 
-| Category | technologies |
+| Domain | Technolgies |
 | :--- | :--- |
-| **Backend & APIs** | Node.js, Express, Supabase (PostgreSQL), RESTful APIs |
-| **Frontend & UI** | React.js, Vite, Framer Motion, Vanilla CSS (Kinetic UI) |
-| **Desktop & Hardware** | Electron.js, IoT Integration, Firmware Logic |
-| **DevOps & Tools** | Git, Vercel, Netlify, Docker (Learning) |
+| **Backend Mastery** | .NET Core (C#), Node.js (TypeScript), Express, RESTful APIs |
+| **Databases & Cloud** | Supabase (PostgreSQL), MongoDB, Real-time Sync |
+| **IoT & Desktop** | Electron.js, Arduino (IDE/C++), Hardware-Software Interfacing |
+| **Frontend & UX** | React.js (Vite), Framer Motion, Kinetic CSS Architecture |
+| **SaaS & DevOps** | Clean Architecture, Docker, RBAC, Automated PDF Backups |
 
 ---
 
-### 🌟 Featured Orchestrations
+### 🌟 Project Orchestrations
 
 #### 💎 [T1T Pro POS System](https://t1t-cafe-system.vercel.app)
-A high-performance Desktop & Web POS system engineered for retail excellence.
-- **Tech:** React, Electron, Supabase (Real-time).
-- **Key Feature:** High-speed fiscal cycle management and daily/monthly reporting.
+A mission-critical POS system for cafes and retail.
+- **Tech Stack:** React (Vite), Electron, Supabase.
+- **Innovation:** Real-time data sync with native desktop performance and dark-mode optimization.
 
-#### 🏠 [MySmartHome IoT](https://github.com/adhamNemr/MySmartHome)
-A complete IoT ecosystem for residential automation and control.
-- **Tech:** Node.js, IoT Sensors, Real-time Dashboard.
-- **Key Feature:** Precise hardware feedback and magnetic UI controls.
+#### 🖨️ [Bazzez Marketplace](https://github.com/adhamNemr/Bazzez_Project)
+A full-scale e-commerce marketplace with advanced hardware integration.
+- **Tech Stack:** Node.js, Express, MongoDB, React.
+- **Innovation:** Implementation of a **Thermal Printing system (EscPos)** with automated PDF reporting.
 
-#### 🛒 [Bazzez Marketplace](https://github.com/adhamNemr/Bazzez_Project)
-A full-scale e-commerce marketplace with professional seller dashboards.
-- **Tech:** React, Node.js, Express, MongoDB.
+#### 📊 [SaaS Expense Tracker](https://github.com/adhamNemr/ExpenseTracker)
+A high-grade financial SaaS platform for budgeting and analytics.
+- **Tech Stack:** **.NET Core (C#)**, Clean Architecture.
+- **Innovation:** Implements **RBAC (Role-Based Access Control)** and is **Docker-ready**.
+
+#### 🏠 [MySmartHome Ecosystem](https://github.com/adhamNemr/MySmartHome)
+Direct hardware-to-software residential automation.
+- **Tech Stack:** Node.js, **Arduino (C++)**.
+- **Innovation:** Seamless integration between web dashboards and real-world sensors/actuators.
+
+#### 🏷️ [nemr-store (V2)](https://github.com/adhamNemr/nemr-store)
+A refactored, type-safe e-commerce engine.
+- **Tech Stack:** **TypeScript**, Node.js.
+- **Innovation:** Professional-level Service Layer architecture for complex business logic (Variations, Coupons).
 
 ---
 
-### 📊 Digital Footprint
+### 📊 Engineering Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adhamNemr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
@@ -72,6 +84,6 @@ A full-scale e-commerce marketplace with professional seller dashboards.
 ---
 
 <div align="center">
-  <p><i>"Engineering the future, one commit at a time."</i></p>
-  <p>✨ Built with surgical precision by Adham Nemr</p>
+  <p><i>"Logic is the art of going wrong with confidence." — Engineering the Future.</i></p>
+  <p>✨ Sculpted with precision by Adham Nemr</p>
 </div>
