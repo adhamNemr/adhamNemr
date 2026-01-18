@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="assets/banner.png" width="100%" alt="Adham Nemr Banner" />
-  
   <h1>🌌 Adham Nemr</h1>
   <p><strong>Backend & IoT Architect | Full-Stack Engineer | System Architect</strong></p>
 
@@ -21,20 +19,20 @@
 
 ### 🚀 About Me
 
-I am a **Software Architect** focused on high-performance systems and bridge-technologies. My expertise spans from **C# .NET Clean Architecture** to **Arduino-based IoT firmware**, with a strong foundation in modern full-stack web development. I don't just build apps; I engineer solutions that solve complex business logic and hardware-level problems.
+I am a **Software Architect** focused on high-performance systems and bridge-technologies. My expertise spans from **C# .NET Clean Architecture** to **Arduino-based IoT firmware**, with a strong foundation in modern full-stack engineering. I specialize in building mission-critical management systems and scalable marketplaces.
 
 - 🏗️ **Core Craft:** Engineering scalable **.NET Core** backends and real-time **Node.js** ecosystems.
-- 📡 **Hardware Integration:** Expertise in **Arduino** ecosystems and **EscPos Thermal Printing** systems.
+- 📡 **Hardware Integration:** Expertise in **Arduino** ecosystems and **EscPos Thermal Printing** systems for POS.
 - ⚡ **Current Focus:** Optimizing the **T1T Pro System**—a high-end POS solution for retail & hospitality.
 
 ---
 
 ### 🛠️ Technical Portfolio
 
-| Domain | Technolgies |
+| Domain | Technologies |
 | :--- | :--- |
 | **Backend Mastery** | .NET Core (C#), Node.js (TypeScript), Express, RESTful APIs |
-| **Databases & Cloud** | Supabase (PostgreSQL), MongoDB, Real-time Sync |
+| **Databases & Cloud** | Supabase (PostgreSQL), MySQL (Sequelize), MongoDB, Real-time Sync |
 | **IoT & Desktop** | Electron.js, Arduino (IDE/C++), Hardware-Software Interfacing |
 | **Frontend & UX** | React.js (Vite), Framer Motion, Kinetic CSS Architecture |
 | **SaaS & DevOps** | Clean Architecture, Docker, RBAC, Automated PDF Backups |
@@ -48,10 +46,15 @@ A mission-critical POS system for cafes and retail.
 - **Tech Stack:** React (Vite), Electron, Supabase.
 - **Innovation:** Real-time data sync with native desktop performance and dark-mode optimization.
 
-#### 🖨️ [Bazzez Marketplace](https://github.com/adhamNemr/Bazzez_Project)
-A full-scale e-commerce marketplace with advanced hardware integration.
-- **Tech Stack:** Node.js, Express, MongoDB, React.
-- **Innovation:** Implementation of a **Thermal Printing system (EscPos)** with automated PDF reporting.
+#### 🛍️ [nemr-store Marketplace](https://github.com/adhamNemr/nemr-store)
+A premium high-performance E-commerce Marketplace.
+- **Tech Stack:** **TypeScript**, Node.js, Express, React.
+- **Innovation:** Specialized **Service Layer** architecture for complex logic like Coupons and Product Variations.
+
+#### 📋 [Bazzez Management System (POS)](https://github.com/adhamNemr/Bazzez_Project)
+Advanced Restaurant & POS Management system.
+- **Tech Stack:** Node.js, Express, **MySQL (Sequelize)**.
+- **Innovation:** Integrated **EscPos Thermal Printing** and comprehensive Daily/Monthly financial analytics.
 
 #### 📊 [SaaS Expense Tracker](https://github.com/adhamNemr/ExpenseTracker)
 A high-grade financial SaaS platform for budgeting and analytics.
@@ -62,11 +65,6 @@ A high-grade financial SaaS platform for budgeting and analytics.
 Direct hardware-to-software residential automation.
 - **Tech Stack:** Node.js, **Arduino (C++)**.
 - **Innovation:** Seamless integration between web dashboards and real-world sensors/actuators.
-
-#### 🏷️ [nemr-store (V2)](https://github.com/adhamNemr/nemr-store)
-A refactored, type-safe e-commerce engine.
-- **Tech Stack:** **TypeScript**, Node.js.
-- **Innovation:** Professional-level Service Layer architecture for complex business logic (Variations, Coupons).
 
 ---
 
